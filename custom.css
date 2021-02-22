@@ -1,0 +1,10 @@
+.bg-funky-blue{
+  background-color: #0fe1f7
+}
+
+@media screen and (max width: 768px) {
+  .display-1 {
+  font-size: 10px;
+  }
+}
+/*custom background color, follows bootstap naming system/*

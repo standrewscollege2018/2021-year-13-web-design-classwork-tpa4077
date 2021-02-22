@@ -1,0 +1,13 @@
+.bg-grey{
+  background-color: #ECECEC;
+}
+.bg-tutor{
+  background-color: #949494;
+}
+.dashboard{
+  position: fixed;
+  border-right-style: solid;
+  border-width: 3px;
+  border-color: #949494;
+  height: 100%;
+}
