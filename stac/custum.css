@@ -5,9 +5,14 @@
   background-color: #949494;
 }
 .dashboard{
-  position: fixed;
   border-right-style: solid;
-  border-width: 3px;
+  border-width: medium;
   border-color: #949494;
   height: 100%;
+  position: fixed;
+}
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
 }
